@@ -1,9 +1,3 @@
-Good question 👍 You just need to add a **Dependencies / Requirements section** in your README, and mention the `requirements.txt` file.
-
-Here’s how your updated **README.md** will look (you can copy-paste directly):
-
----
-
 # Disease Drug Prediction using Machine Learning
 
 This project applies **data mining** and **machine learning** techniques to analyze patient symptoms, predict possible diseases, and recommend suitable drugs. It aims to provide healthcare assistance in cases where immediate access to medical professionals is limited.
